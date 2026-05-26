@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /edutenant_lms_backend/api/
+
+RewriteRule ^hello$ index.php?route=test [L]
+RewriteEngine On
+RewriteBase /edutenant_lms_backend/api/
+
+RewriteRule ^hello$ index.php?route=test [L]
